@@ -1,8 +1,8 @@
 # Intro
->표준 프레임워크 인 Bean Validation 2.0으로 알려진 JSR380을 사용하여 Java Bean 유효성 검사의 기본사항을 살펴본다.
+>표준 프레임워크인 Bean Validation 2.0으로 알려진 JSR380을 사용하여 Java Bean 유효성 검사의 기본사항을 살펴본다.
 
 # JSR380
->Jakarta EE 및 JavaSE의 일부인 Bean 유효 검증을 위한 Java API 스펙으로 @NotNull, @Min, @Max 등의 어노테이을 사용하여 Bean이 특정 기준을 충존하는지 확인한다.
+>Jakarta EE 및 JavaSE의 일부인 Bean 유효 검증을 위한 Java API 스펙으로 @NotNull, @Min, @Max 등의 어노테이션을 사용하여 Bean이 특정 기준을 충족하는지 확인한다.
 
 # Dependencies
 ## Validation Api
