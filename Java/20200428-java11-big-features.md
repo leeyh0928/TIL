@@ -96,4 +96,4 @@ client.sendAsync(request, BodyHandlers.ofString())
 > ZGC가 객체 재배치 같은 작업을 수행할 수 있게 해줍니다.
 # References
 * https://meetup.toast.com/posts/171
-* https://johngrib.github.io/wiki/java-gc-zgc/
+* https://johngrib.github.io/wiki/java-gc-zgc
