@@ -92,8 +92,8 @@ client.sendAsync(request, BodyHandlers.ofString())
 * 최초 Linux/x64을 지원(향후 추가 플랫폼 지원 가능)
 > JVM 기반의 애플리케이션은 GC가 동작할 때 ***Stop-The-World*** 현상으로 성능에 큰 영향을 끼쳤는데
 > 쓰레드의 정지시간을 줄이거나 없앰으로써 성능 향상에 기여한다.
-> ZGC의 주요 원리는 Load barrier와 Colored object pointer를 함께 사용하는 것입니다. 이를 통해 Java의 애플리케이션 스레드가 동작하는 중간에, 
-> ZGC가 객체 재배치 같은 작업을 수행할 수 있게 해줍니다.
+> ZGC의 주요 원리는 Load barrier와 Colored object pointer를 함께 사용하는 것입니다. 이를 통해 Java의 애플리케이션 스레드가 동작하는 중간에 
+> ZGC가 객체 재배치 같은 작업을 수행할 수 있게 해준다.
 # References
 * https://meetup.toast.com/posts/171
 * https://johngrib.github.io/wiki/java-gc-zgc
