@@ -1,22 +1,22 @@
-#Intro
->표준 프레임워크 인 Bean Validation 2.0으로 알려진 JSR380을 사용하여 Java Bean 유효성 검사의 기본사항을 살펴본다.
+# Intro
+>표준 프레임워크인 Bean Validation 2.0으로 알려진 JSR380을 사용하여 Java Bean 유효성 검사의 기본사항을 살펴본다.
 
-#JSR380
->Jakarta EE 및 JavaSE의 일부인 Bean 유효 검증을 위한 Java API 스펙으로 @NotNull, @Min, @Max 등의 어노테이을 사용하여 Bean이 특정 기준을 충존하는지 확인한다.
+# JSR380
+>Jakarta EE 및 JavaSE의 일부인 Bean 유효 검증을 위한 Java API 스펙으로 @NotNull, @Min, @Max 등의 어노테이션을 사용하여 Bean이 특정 기준을 충족하는지 확인한다.
 
-#Dependencies
-##Validation Api
+# Dependencies
+## Validation Api
 >JSR389 기반의 표준 유효성 검사 API
 ~~~
 implementation('javax.validation:validation-api:2.0.0.Final')
 ~~~
-##Hibernate Validator
+## Hibernate Validator
 >Validation Api의 참조 구현물로 spring-boot-starter-data-jpa 모듈에 포함되어 있다.
 ~~~
 implementation('org.hibernate.validator:hibernate-validator:6.0.2.Final')
 annotationProcessor('org.hibernate.validator:hibernate-validator-annotation-processor:6.0.2.Final')
 ~~~
-#Using Validation Annotations
+# Using Validation Annotations
 ~~~java
 public class User {
     @NotNull(message = "cannot be null")
@@ -63,7 +63,7 @@ public Optional<@Past LocalDate> getDateOfBirth() {
     return Optional.of(dateOfBirth);
 }
 ~~~
-#Programmatic validation
+# Programmatic validation
 ~~~java
 public class ValidationTest {
     private static ValidatorFactory validatorFactory;
@@ -97,5 +97,5 @@ public class ValidationTest {
     }
 }
 ~~~
-#Reference
+# Reference
 - https://www.baeldung.com/javax-validation
