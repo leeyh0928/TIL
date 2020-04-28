@@ -82,6 +82,18 @@ client.sendAsync(request, BodyHandlers.ofString())
     .thenApply(HttpResponse::body)
     .thenAccept(System.out::println);
 ~~~
-
+## 3. (JEP 333) ZGC: A Scalable Low-Latency Garbage Collector (Experimental)
+> jdk11에서 새롭게 등장한 가비지 콜렉터
+> 아래의 목료를 가지고 개발됨
+* GC 일시 중지 시간은 10ms를 초과하지 않는다.
+* 작은 크기(수백 MB) ~ 매우 큰 크기(수백 TB) 범위의 힙을 처리
+* G1 보다 애플리케이션 처리량이 15% 이상 감소하지 않는다.
+* colored pointers, load barriers를 사용하여 향후 GC 최적화를 위한 기반을 마련
+* 최초 Linux/x64을 지원(향후 추가 플랫폼 지원 가능)
+> JVM 기반의 애플리케이션은 GC가 동작할 때 ***Stop-The-World*** 현상으로 성능에 큰 영향을 끼쳤는데
+> 쓰레드의 정지시간을 줄이거나 없앰으로써 성능 향상에 기여한다.
+> ZGC의 주요 원리는 Load barrier와 Colored object pointer를 함께 사용하는 것입니다. 이를 통해 Java의 애플리케이션 스레드가 동작하는 중간에, 
+> ZGC가 객체 재배치 같은 작업을 수행할 수 있게 해줍니다.
 # References
 * https://meetup.toast.com/posts/171
+* https://johngrib.github.io/wiki/java-gc-zgc/
