@@ -3,4 +3,5 @@
 # Spring
 - [Java Bean Validation](https://github.com/leeyh0928/TIL/blob/master/Spring/20200427-java-bean-validation.md)
 # Java
+- [Java8 Functional interface](https://github.com/leeyh0928/TIL/blob/master/Java/20200429-functional-interface-in-java8.md)
 - [Java11 Big features](https://github.com/leeyh0928/TIL/blob/master/Java/20200428-java11-big-features.md)
