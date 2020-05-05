@@ -37,7 +37,7 @@
 port <port number>
 
 # 센티넬이 감시할 Master Redis의 인스턴스 정보
-# quorum 이란 의사결정에 필요한 최소 Sentinel 노드수 ***(홀수 단위로 띄우는 전략이 필요한 이유)***
+# quorum 이란 의사결정에 필요한 최소 Sentinel 노드수 (홀수 단위로 띄우는 전략이 필요한 이유)
 sentinel monitor mymaster <redis master host> <redis master port> <quorum>
 
 # 센티널이 Master 인스턴스에 접속하기 위한 패스워드
