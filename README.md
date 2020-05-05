@@ -5,3 +5,5 @@
 # Java
 - [Java8 Functional interface](https://github.com/leeyh0928/TIL/blob/master/Java/20200429-functional-interface-in-java8.md)
 - [Java11 Big features](https://github.com/leeyh0928/TIL/blob/master/Java/20200428-java11-big-features.md)
+# Redis
+- [Redis Sentinel 1편](https://github.com/leeyh0928/TIL/blob/master/Redis/20200504-redis-sentinel.md)
