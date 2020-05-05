@@ -55,3 +55,5 @@ sentinel failover-timeout mymaster 180000
 # 값이 1이라면 Slave는 한대씩 Master와 동기화를 진행
 sentinel parallel-syncs mymaster 1
 ~~~
+# References
+* https://coding-start.tistory.com/127
