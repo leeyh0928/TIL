@@ -7,3 +7,4 @@
 - [Java11 Big features](https://github.com/leeyh0928/TIL/blob/master/Java/20200428-java11-big-features.md)
 # Redis
 - [Redis Sentinel 1편](https://github.com/leeyh0928/TIL/blob/master/Redis/20200504-redis-sentinel.md)
+- [Redis Sentinel 구성해보기 with Docker Compose](https://github.com/leeyh0928/TIL/blob/master/Redis/20200507-docker-redis-sentinel.md)
