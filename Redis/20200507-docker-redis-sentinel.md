@@ -8,7 +8,7 @@
 - ALLOW_EMPTY_PASSWORD : Redis 패스워드 빈값 설정 여부(yes/no)
 - REDIS_REPLICATION_MODE : Redis Replication 모드(master/slave)
 - REDIS_MASTER_HOST : Redis Slave의 Master 호스트(Host Name or IP)
-> docker-compose.yml
+> docker-compose.yml ***자세한 내용은 우측 클릭*** [[소스 보기]](https://github.com/leeyh0928/redis-sentinel-with-docker-compose)
 ~~~yaml
 version: '3'
 
