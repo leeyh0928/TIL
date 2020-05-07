@@ -8,3 +8,4 @@
 # Redis
 - [[4日] Redis Sentinel 1편](https://github.com/leeyh0928/TIL/blob/master/Redis/20200504-redis-sentinel.md)
 - [[5日] Redis Sentinel 구성해보기 with Docker Compose](https://github.com/leeyh0928/TIL/blob/master/Redis/20200507-docker-redis-sentinel.md)
+- [[6日] Lettuce Basic](https://github.com/leeyh0928/TIL/blob/master/Redis/20200508-java-redis-lettuce.md)
