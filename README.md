@@ -2,6 +2,10 @@
 매일 학습한 내용을 정리하여 올린다.
 # Spring
 - [[1日] Java Bean Validation](https://github.com/leeyh0928/TIL/blob/master/Spring/20200427-java-bean-validation.md)
+# JPA
+* 자바 ORM 표준 JPA 프로그래밍
+    * JPA 소개
+        * [[8日] 01. SQL을 직접 다룰 때 발생하는 문제점](https://github.com/leeyh0928/TIL/blob/master/JPA/books/자바_ORM_표준_JPA_프로그래밍/20200512_1.1_SQL을_직접_다룰_때_발생하는_문제점.md)
 # Java
 - [[3日] Java8 Functional interface](https://github.com/leeyh0928/TIL/blob/master/Java/20200429-functional-interface-in-java8.md)
 - [[2日] Java11 Big features](https://github.com/leeyh0928/TIL/blob/master/Java/20200428-java11-big-features.md)
