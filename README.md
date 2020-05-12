@@ -2,6 +2,7 @@
 매일 학습한 내용을 정리하여 올린다.
 # Spring
 - [[1日] Java Bean Validation](https://github.com/leeyh0928/TIL/blob/master/Spring/20200427-java-bean-validation.md)
+- [[9日] Spring Transaction 관리](https://github.com/leeyh0928/TIL/blob/master/Spring/20200513_spring_transaction.md)
 # JPA
 * 자바 ORM 표준 JPA 프로그래밍
     * JPA 소개

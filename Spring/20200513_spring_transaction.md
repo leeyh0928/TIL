@@ -63,3 +63,7 @@ DataSource Connection의 트랜잭션 API를 이용해서 트랜잭션을 관리
 
 ![Image of transaction](https://github.com/leeyh0928/TIL/blob/master/Spring/raws/환경별_transaction_처리를_위한_구성_요소.png)
 
+# References
+* https://parkcheolu.tistory.com/35#recentEntries
+* https://d2.naver.com/helloworld/5812258
+
