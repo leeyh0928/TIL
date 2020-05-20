@@ -3,6 +3,7 @@
 # Spring
 - [Java Bean Validation](https://github.com/leeyh0928/TIL/blob/master/Spring/20200427-java-bean-validation.md)
 - [Spring Transaction 관리](https://github.com/leeyh0928/TIL/blob/master/Spring/20200513_spring_transaction.md)
+- [Reactor](https://github.com/leeyh0928/TIL/blob/master/Spring/20200519-reactor.md)
 # JPA
 * 자바 ORM 표준 JPA 프로그래밍
     * JPA 소개
@@ -14,9 +15,10 @@
 - [Java8 Functional interface](https://github.com/leeyh0928/TIL/blob/master/Java/20200429-functional-interface-in-java8.md)
 - [Java11 Big features](https://github.com/leeyh0928/TIL/blob/master/Java/20200428-java11-big-features.md)
 - [Netty](https://github.com/leeyh0928/TIL/blob/master/Java/20200519-netty.md)
-- [Reactor](https://github.com/leeyh0928/TIL/blob/master/Java/20200519-reactor.md)
 # Redis
 - [Redis Sentinel](https://github.com/leeyh0928/TIL/blob/master/Redis/20200504-redis-sentinel.md)
 - [Redis Sentinel 구성해보기 with Docker Compose](https://github.com/leeyh0928/TIL/blob/master/Redis/20200507-docker-redis-sentinel.md)
 - [Lettuce Basic 1부](https://github.com/leeyh0928/TIL/blob/master/Redis/20200508-java-redis-lettuce-1.md)
 - [Lettuce Basic 2부](https://github.com/leeyh0928/TIL/blob/master/Redis/20200511-java-redis-lettuce-2.md)
+# ETC
+- [gRPC](https://github.com/leeyh0928/TIL/blob/master/etc/20200520-gRPC.md)
