@@ -22,3 +22,4 @@
 - [Lettuce Basic 2부](https://github.com/leeyh0928/TIL/blob/master/Redis/20200511-java-redis-lettuce-2.md)
 # ETC
 - [gRPC](https://github.com/leeyh0928/TIL/blob/master/etc/20200520-gRPC.md)
+- [gRPC 예제](https://github.com/leeyh0928/TIL/blob/master/etc/20200521-gRPC-example.md)
