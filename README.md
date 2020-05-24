@@ -11,6 +11,8 @@
         * [02-1. 패러다임의 불일치 1](https://github.com/leeyh0928/TIL/blob/master/JPA/books/자바_ORM_표준_JPA_프로그래밍/20200514_1.2_paradigm_mismatch-1.md)
         * [02-2. 패러다임의 불일치 2](https://github.com/leeyh0928/TIL/blob/master/JPA/books/자바_ORM_표준_JPA_프로그래밍/20200515_1.2_paradigm_mismatch-2.md)
         * [03. 객체 그래프 탐색](https://github.com/leeyh0928/TIL/blob/master/JPA/books/자바_ORM_표준_JPA_프로그래밍/20200517_1.3_object_graph_navigation.md)
+    * 영속성 관리
+        * [01. 엔티티 매니저 팩토리와 엔티티 매니저](https://github.com/leeyh0928/TIL/blob/master/JPA/books/자바_ORM_표준_JPA_프로그래밍/20200524_3.1_entity_manager_factory_and_entity_manager.md)
 # Java
 - [Java8 Functional interface](https://github.com/leeyh0928/TIL/blob/master/Java/20200429-functional-interface-in-java8.md)
 - [Java11 Big features](https://github.com/leeyh0928/TIL/blob/master/Java/20200428-java11-big-features.md)
