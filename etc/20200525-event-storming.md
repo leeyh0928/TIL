@@ -57,6 +57,13 @@
 
 모호한 것들. 의사결정이 필요한 것들. 무엇이든 애매한 것들은 즉시 이것으로 표시해 붙임
 
+## Domain Event, Command, Aggregate 상관관계
+사용자가 "어떤 아이템을 장바구니에 넣어라." 라는 명령(Command)을 내린다. 실제로는 ***Item***이라는 애그리게잇에 영향을 줘서
+"Item이 장바구니에 들어가게 됨"이라는 ***Event***가 발생한다. 
+
+***애그리게잇과 이벤트는 Atomic한 특징을 가진다. 애그리게잇에 상태변화가 생기면 이벤트에도 상태변화가 생긴다.***
+![image.event-storming-9](raws/event-storming-9.png)
+
 # References
 * https://syundev.tistory.com/125
 * https://helloworld.kurly.com/blog/event-storming/
