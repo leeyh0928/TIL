@@ -23,5 +23,8 @@
 - [Lettuce Basic 1부](https://github.com/leeyh0928/TIL/blob/master/Redis/20200508-java-redis-lettuce-1.md)
 - [Lettuce Basic 2부](https://github.com/leeyh0928/TIL/blob/master/Redis/20200511-java-redis-lettuce-2.md)
 # ETC
-- [gRPC](https://github.com/leeyh0928/TIL/blob/master/etc/20200520-gRPC.md)
-- [gRPC 예제](https://github.com/leeyh0928/TIL/blob/master/etc/20200521-gRPC-example.md)
+* gRPC
+    * [gRPC](https://github.com/leeyh0928/TIL/blob/master/etc/20200520-gRPC.md)
+    * [gRPC Example](https://github.com/leeyh0928/TIL/blob/master/etc/20200521-gRPC-example.md)
+* DDD
+    * [Event Storming](https://github.com/leeyh0928/TIL/blob/master/etc/20200525-event-storming.md)
