@@ -3,7 +3,8 @@
 # Spring
 - [Java Bean Validation](https://github.com/leeyh0928/TIL/blob/master/Spring/20200427-java-bean-validation.md)
 - [Spring Transaction 관리](https://github.com/leeyh0928/TIL/blob/master/Spring/20200513_spring_transaction.md)
-- [Reactor](https://github.com/leeyh0928/TIL/blob/master/Spring/20200519-reactor.md)
+- [Reactor - 1](https://github.com/leeyh0928/TIL/blob/master/Spring/20200519-reactor.md)
+- [Reactor - 2](https://github.com/leeyh0928/TIL/blob/master/Spring/20200527-reactor-2.md)
 # JPA
 * 자바 ORM 표준 JPA 프로그래밍
     * JPA 소개
