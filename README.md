@@ -16,9 +16,10 @@
         * [01. 엔티티 매니저 팩토리와 엔티티 매니저](https://github.com/leeyh0928/TIL/blob/master/JPA/books/java_orm_standard_jpa_programing/20200524_3.1_entity_manager_factory_and_entity_manager.md)
         * [02. 영속성 컨텍스트와 엔티티의 생명주기](https://github.com/leeyh0928/TIL/blob/master/JPA/books/java_orm_standard_jpa_programing/20200526_3.2-3_persistence_context_and_life_cycle.md)
 # Java
-- [Java8 Functional interface](https://github.com/leeyh0928/TIL/blob/master/Java/20200429-functional-interface-in-java8.md)
 - [Java11 Big features](https://github.com/leeyh0928/TIL/blob/master/Java/20200428-java11-big-features.md)
 - [Netty](https://github.com/leeyh0928/TIL/blob/master/Java/20200519-netty.md)
+- [Java8 Functional interface](https://github.com/leeyh0928/TIL/blob/master/Java/20200429-functional-interface-in-java8.md)
+- [Java8 Stream API](https://github.com/leeyh0928/TIL/blob/master/Java/20200531-stream-api-in-java8.md)
 # Redis
 - [Redis Sentinel](https://github.com/leeyh0928/TIL/blob/master/Redis/20200504-redis-sentinel.md)
 - [Redis Sentinel 구성해보기 with Docker Compose](https://github.com/leeyh0928/TIL/blob/master/Redis/20200507-docker-redis-sentinel.md)
