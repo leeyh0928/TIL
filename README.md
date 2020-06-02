@@ -16,7 +16,8 @@
         * [01. 엔티티 매니저 팩토리와 엔티티 매니저](https://github.com/leeyh0928/TIL/blob/master/JPA/books/java_orm_standard_jpa_programing/20200524_3.1_entity_manager_factory_and_entity_manager.md)
         * [02. 영속성 컨텍스트와 엔티티의 생명주기](https://github.com/leeyh0928/TIL/blob/master/JPA/books/java_orm_standard_jpa_programing/20200526_3.2-3_persistence_context_and_life_cycle.md)
     * 엔티티 매핑
-        * [엔티티 매핑 1](https://github.com/leeyh0928/TIL/blob/master/JPA/books/java_orm_standard_jpa_programing/20200601-4.entity-mapping-1.md)
+        * [01-1. 엔티티 매핑 1](https://github.com/leeyh0928/TIL/blob/master/JPA/books/java_orm_standard_jpa_programing/20200601-4.entity-mapping-1.md)
+        * [01-2. 엔티티 매핑 2](https://github.com/leeyh0928/TIL/blob/master/JPA/books/java_orm_standard_jpa_programing/20200602-4.entity-mappping-2.md)
 # Java
 - [Java11 Big features](https://github.com/leeyh0928/TIL/blob/master/Java/20200428-java11-big-features.md)
 - [Netty](https://github.com/leeyh0928/TIL/blob/master/Java/20200519-netty.md)
