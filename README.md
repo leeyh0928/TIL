@@ -18,6 +18,7 @@
     * 엔티티 매핑
         * [01-1. 엔티티 매핑 1](https://github.com/leeyh0928/TIL/blob/master/JPA/books/java_orm_standard_jpa_programing/20200601-4.entity-mapping-1.md)
         * [01-2. 엔티티 매핑 2](https://github.com/leeyh0928/TIL/blob/master/JPA/books/java_orm_standard_jpa_programing/20200602-4.entity-mappping-2.md)
+        * [01-3. 엔티티 매핑 3](https://github.com/leeyh0928/TIL/blob/master/JPA/books/java_orm_standard_jpa_programing/20200603-4.entity-mappping-3.md)
 # Java
 - [Java11 Big features](https://github.com/leeyh0928/TIL/blob/master/Java/20200428-java11-big-features.md)
 - [Netty](https://github.com/leeyh0928/TIL/blob/master/Java/20200519-netty.md)
