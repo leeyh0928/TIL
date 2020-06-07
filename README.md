@@ -6,6 +6,7 @@
 - [Reactor - 1](https://github.com/leeyh0928/TIL/blob/master/Spring/20200519-reactor.md)
 - [Reactor - 2](https://github.com/leeyh0928/TIL/blob/master/Spring/20200527-reactor-2.md)
 - [Bean 스코프](https://github.com/leeyh0928/TIL/blob/master/Spring/20200605-bean-scope.md)
+- [Bean post processor](https://github.com/leeyh0928/TIL/blob/master/Spring/20200607-bean-post-processor.md)
 # JPA
 * 자바 ORM 표준 JPA 프로그래밍
     * JPA 소개
