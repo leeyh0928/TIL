@@ -151,6 +151,9 @@ public class AppConfig {
 }
 ~~~
 
+## 5. Scoped Proxy
+@Scope 어노테이션을 이용한 Proxy 방식이 있다고 하는데, 잘 안된다. 이해가 안되서 일단 pass!!
+
 # 테스트
 > 문제 해결 방법 중 `ObjectFactory Interface` 방법에 대해 Test 코드로 확인해보자.
 ~~~java
