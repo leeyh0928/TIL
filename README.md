@@ -8,6 +8,7 @@
 - [Bean post processor](https://github.com/leeyh0928/TIL/blob/master/Spring/20200607-bean-post-processor.md)
 - [Bean Scope](https://github.com/leeyh0928/TIL/blob/master/Spring/20200605-bean-scope.md)
 - [The scoped bean injection problem](https://github.com/leeyh0928/TIL/blob/master/Spring/20200608-spring-inject-prototype-bean-into-singleton.md)
+- [HATEOAS Basic](https://github.com/leeyh0928/TIL/blob/master/Spring/20200609-spring-hateoas-basic.md)
 # JPA
 * 자바 ORM 표준 JPA 프로그래밍
     * JPA 소개
