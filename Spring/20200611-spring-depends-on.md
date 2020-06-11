@@ -144,3 +144,6 @@ public void whenCircularDependency_ThrowsBeanCreationException(){
 # 사용시 주의점
 * @DependsOn을 사용할 경우 반드시 `component-scanning`이 되어야 한다.
 * DependsOn-annotated Class가 XML 방식으로 선언된 경우 `@DependsOn` 어노테이션은 무시된다.
+
+# References
+* https://www.baeldung.com/spring-depends-on
