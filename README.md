@@ -6,14 +6,18 @@
 - [Reactor - 1](https://github.com/leeyh0928/TIL/blob/master/Spring/20200519-reactor.md)
 - [Reactor - 2](https://github.com/leeyh0928/TIL/blob/master/Spring/20200527-reactor-2.md)
 - [Bean post processor](https://github.com/leeyh0928/TIL/blob/master/Spring/20200607-bean-post-processor.md)
-- [Bean Scope](https://github.com/leeyh0928/TIL/blob/master/Spring/20200605-bean-scope.md)
-- [The scoped bean injection problem](https://github.com/leeyh0928/TIL/blob/master/Spring/20200608-spring-inject-prototype-bean-into-singleton.md)
 - [HATEOAS Basic](https://github.com/leeyh0928/TIL/blob/master/Spring/20200609-spring-hateoas-basic.md)
-- [EnvironmentPostProcessor in Spring Boot](https://github.com/leeyh0928/TIL/blob/master/Spring/20200610-EnvironmentPostProcessor-in-Spring-Boot.md)
-- [Controlling Bean Creation Order with @DependsOn](https://github.com/leeyh0928/TIL/blob/master/Spring/20200611-spring-depends-on.md)
-- [Spring Boot Annotations](https://github.com/leeyh0928/TIL/blob/master/Spring/20200614-spring-boot-annotations.md)
-- [Spring Expression Language](https://github.com/leeyh0928/TIL/blob/master/Spring/20200615-spring-expression-language.md)
-- [Create a Custom Auto-Configuration with Spring Boot](https://github.com/leeyh0928/TIL/blob/master/Spring/20200616-spring-boot-custom-auto-configuration.md)
+- Bean Scope
+    - [Bean Scope](https://github.com/leeyh0928/TIL/blob/master/Spring/20200605-bean-scope.md)
+    - [The scoped bean injection problem](https://github.com/leeyh0928/TIL/blob/master/Spring/20200608-spring-inject-prototype-bean-into-singleton.md)
+- Auto-Configuration
+    - [EnvironmentPostProcessor in Spring Boot](https://github.com/leeyh0928/TIL/blob/master/Spring/20200610-EnvironmentPostProcessor-in-Spring-Boot.md)
+    - [Controlling Bean Creation Order with @DependsOn](https://github.com/leeyh0928/TIL/blob/master/Spring/20200611-spring-depends-on.md)
+    - [Spring Boot Annotations](https://github.com/leeyh0928/TIL/blob/master/Spring/20200614-spring-boot-annotations.md)
+    - [Spring Expression Language](https://github.com/leeyh0928/TIL/blob/master/Spring/20200615-spring-expression-language.md)
+    - [Create a Custom Auto-Configuration with Spring Boot](https://github.com/leeyh0928/TIL/blob/master/Spring/20200616-spring-boot-custom-auto-configuration.md)
+- Redis
+    - [Spring Data Redis Reactive Basic](https://github.com/leeyh0928/TIL/blob/master/Spring/20200621-spring-data-redis-reactive.md)
 # JPA
 * 자바 ORM 표준 JPA 프로그래밍
     * JPA 소개
