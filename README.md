@@ -3,8 +3,6 @@
 # Spring
 - [Java Bean Validation](https://github.com/leeyh0928/TIL/blob/master/Spring/20200427-java-bean-validation.md)
 - [Spring Transaction 관리](https://github.com/leeyh0928/TIL/blob/master/Spring/20200513_spring_transaction.md)
-- [Reactor - 1](https://github.com/leeyh0928/TIL/blob/master/Spring/20200519-reactor.md)
-- [Reactor - 2](https://github.com/leeyh0928/TIL/blob/master/Spring/20200527-reactor-2.md)
 - [Bean post processor](https://github.com/leeyh0928/TIL/blob/master/Spring/20200607-bean-post-processor.md)
 - [HATEOAS Basic](https://github.com/leeyh0928/TIL/blob/master/Spring/20200609-spring-hateoas-basic.md)
 - Bean Scope
@@ -16,8 +14,12 @@
     - [Spring Boot Annotations](https://github.com/leeyh0928/TIL/blob/master/Spring/20200614-spring-boot-annotations.md)
     - [Spring Expression Language](https://github.com/leeyh0928/TIL/blob/master/Spring/20200615-spring-expression-language.md)
     - [Create a Custom Auto-Configuration with Spring Boot](https://github.com/leeyh0928/TIL/blob/master/Spring/20200616-spring-boot-custom-auto-configuration.md)
-- Redis
+- Reactive
+    - [Reactor - 1](https://github.com/leeyh0928/TIL/blob/master/Spring/20200519-reactor.md)
+    - [Reactor - 2](https://github.com/leeyh0928/TIL/blob/master/Spring/20200527-reactor-2.md)
     - [Spring Data Redis Reactive Basic](https://github.com/leeyh0928/TIL/blob/master/Spring/20200621-spring-data-redis-reactive.md)
+- Protocol Buffers
+    - [Spring REST API with Protocol Buffers](https://github.com/leeyh0928/TIL/blob/master/Spring/20200622-spring-rest-api-with-protocol-buffers.md)
 # JPA
 * 자바 ORM 표준 JPA 프로그래밍
     * JPA 소개
