@@ -45,14 +45,14 @@ Java 코드로 변환하기 위해 별도의 컴파일러 `protoc`가 필요하�
 ~~~bash
 brew install libtool
 ~~~
-
 컴파일을 통해 Java 클래스 파일로 변환한다.
 ~~~bash
 protoc --java_out=java src/main/resources/ProtobufTraining.proto
 ~~~
 `protobuf` 런타임 Dependency를 추가한다.
 ~~~groovy
-compile group: 'com.google.protobuf', name: 'protobuf-java', version: '3.12.2'
+implementation 'com.google.protobuf:protobuf-java:3.12.2'
+implementation 'com.googlecode.protobuf-java-format:protobuf-java-format:1.4'
 ~~~
 ## 3. Compiling a Message Description
 컴파일러를 사용하면 `.proto` 파일의 `Course` 및 `Student` 메시지가 Java 클래스로 변환된다.
