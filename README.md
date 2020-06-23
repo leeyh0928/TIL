@@ -20,6 +20,8 @@
     - [Spring Data Redis Reactive Basic](https://github.com/leeyh0928/TIL/blob/master/Spring/20200621-spring-data-redis-reactive.md)
 - Protocol Buffers
     - [Spring REST API with Protocol Buffers](https://github.com/leeyh0928/TIL/blob/master/Spring/20200622-spring-rest-api-with-protocol-buffers.md)
+- Spring Cloud
+    - [Spring Cloud OpenFeign](https://github.com/leeyh0928/TIL/blob/master/Spring/20200623-spring-cloud-openfeign.md)
 # JPA
 * 자바 ORM 표준 JPA 프로그래밍
     * JPA 소개
