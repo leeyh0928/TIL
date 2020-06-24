@@ -120,3 +120,6 @@ public void whenSendRequest_thenHeaderAdded() {
     assertEquals("TestSample", response.getHeader("Test"));
 }
 ~~~
+
+# References
+* https://www.baeldung.com/spring-rest-with-zuul-proxy
