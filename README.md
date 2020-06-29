@@ -25,6 +25,7 @@
     - [Spring REST with a Zuul Proxy](https://github.com/leeyh0928/TIL/blob/master/Spring/20200624-spring-rest-with-zuul-proxy.md)
     - [Fallback for Zuul Route](https://github.com/leeyh0928/TIL/blob/master/Spring/20200625-spring-zuul-fallback-route.md)
     - [Spring Cloud Gateway - 1](https://github.com/leeyh0928/TIL/blob/master/Spring/20200628-spring-cloud-gateway-1.md)
+    - [Spring Cloud Gateway - 2](https://github.com/leeyh0928/TIL/blob/master/Spring/20200629-spring-cloud-gateway-2.md)
 # JPA
 * 자바 ORM 표준 JPA 프로그래밍
     * JPA 소개
