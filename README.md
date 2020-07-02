@@ -26,6 +26,8 @@
     - [Fallback for Zuul Route](https://github.com/leeyh0928/TIL/blob/master/Spring/20200625-spring-zuul-fallback-route.md)
     - [Spring Cloud Gateway - 1](https://github.com/leeyh0928/TIL/blob/master/Spring/20200628-spring-cloud-gateway-1.md)
     - [Spring Cloud Gateway - 2](https://github.com/leeyh0928/TIL/blob/master/Spring/20200629-spring-cloud-gateway-2.md)
+- Spring Data
+    - [Introduction to Spring Data MongoDB](https://github.com/leeyh0928/TIL/blob/master/Spring/20200702-spring-data-mongodb-tutorial.md)
 - REST
     - [Best Practices for REST API Error Handling](https://github.com/leeyh0928/TIL/blob/master/Spring/20200630-rest-api-error-handling-best-practices.md)
     - [Error Handling for REST with Spring](https://github.com/leeyh0928/TIL/blob/master/Spring/20200701-exception-handling-for-rest-with-spring.md)
