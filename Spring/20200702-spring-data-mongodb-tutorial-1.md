@@ -43,21 +43,6 @@ public class SimpleMongoConfig {
 }
 ~~~
 
-# MongoRepository 구성
-MongoTemplate 구성을 기반으로 아래 어노테이션을 추가한다.
-~~~java
-@EnableMongoRepositories(basePackages = "xxx.xxx.xxx")
-...
-~~~
-
-# 리포지토리 생성
-MongoRepository 인터페이스를 확장하여 저장소를 만든다.
-~~~java
-public interface UserRepository extends MongoRepository<User, String> {
-    // 
-}
-~~~
-
 # MongoTemplate 사용
 ## 1. Insert
 새 사용자를 삽입하면
@@ -253,14 +238,6 @@ mongoTemplate.upsert(query, update, User.class);
 현재 데이터베이스의 상태는 다음과 같다.
 ~~~java
 mongoTemplate.remove(user, "user");
-~~~
-
-# MongoRepository
-새로운 사용자를 삽입한다.
-~~~json
-User user = new User();
-user.setName("Jon");
-userRepository.insert(user);
 ~~~
 
 # References
