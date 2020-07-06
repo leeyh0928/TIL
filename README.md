@@ -18,6 +18,7 @@
     - [Reactor - 1](https://github.com/leeyh0928/TIL/blob/master/Spring/20200519-reactor.md)
     - [Reactor - 2](https://github.com/leeyh0928/TIL/blob/master/Spring/20200527-reactor-2.md)
     - [Spring Data Redis Reactive Basic](https://github.com/leeyh0928/TIL/blob/master/Spring/20200621-spring-data-redis-reactive.md)
+    - [Spring 5 WebClient](https://github.com/leeyh0928/TIL/blob/master/Spring/20200706-spring-5-webclient.md)
 - Protocol Buffers
     - [Spring REST API with Protocol Buffers](https://github.com/leeyh0928/TIL/blob/master/Spring/20200622-spring-rest-api-with-protocol-buffers.md)
 - Spring Cloud
