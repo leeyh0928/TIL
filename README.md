@@ -54,6 +54,7 @@
 - [Java8 Stream API](https://github.com/leeyh0928/TIL/blob/master/Java/20200531-stream-api-in-java8.md)
 - [Hashing a Password in Java](https://github.com/leeyh0928/TIL/blob/master/Java/20200617-java-password-hashing.md)
 - [Image to Base64 String Conversion](https://github.com/leeyh0928/TIL/blob/master/Java/20200618-java-base64-image-string.md)
+- [CompletableFuture](https://github.com/leeyh0928/TIL/blob/master/Java/20200707-java-completablefuture.md)
 # Redis
 - [Redis Sentinel](https://github.com/leeyh0928/TIL/blob/master/Redis/20200504-redis-sentinel.md)
 - [Redis Sentinel 구성해보기 with Docker Compose](https://github.com/leeyh0928/TIL/blob/master/Redis/20200507-docker-redis-sentinel.md)
