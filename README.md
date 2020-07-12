@@ -55,6 +55,7 @@
 - [Hashing a Password in Java](https://github.com/leeyh0928/TIL/blob/master/Java/20200617-java-password-hashing.md)
 - [Image to Base64 String Conversion](https://github.com/leeyh0928/TIL/blob/master/Java/20200618-java-base64-image-string.md)
 - [CompletableFuture](https://github.com/leeyh0928/TIL/blob/master/Java/20200707-java-completablefuture.md)
+- [.map()과 .flatMap()의 차이](https://github.com/leeyh0928/TIL/blob/master/Java/20200712-difference-between-map-and-flatmap.md)
 # Redis
 - [Redis Sentinel](https://github.com/leeyh0928/TIL/blob/master/Redis/20200504-redis-sentinel.md)
 - [Redis Sentinel 구성해보기 with Docker Compose](https://github.com/leeyh0928/TIL/blob/master/Redis/20200507-docker-redis-sentinel.md)
@@ -68,3 +69,5 @@
     * [Event Storming](https://github.com/leeyh0928/TIL/blob/master/etc/20200525-event-storming.md)
 * Docker
     * [Kafka 구성해보기 with Docker Compose](https://github.com/leeyh0928/TIL/blob/master/etc/20200527-kafka-docker.md)
+* Mockito
+    * [BDDMockito](https://github.com/leeyh0928/TIL/blob/master/etc/20200712-bdd-mockito.md)
