@@ -50,6 +50,7 @@ Adam의 Subject가 Biology와 Maths 두 개 이기 때문에 1차 정규형을 �
 
 # 3차 정규화
 ***Student_Detail Table***
+
 | Student_id  | Student_name   | DOB  | Street   | City  | State   | Zip  |
 
 이와 같은 데이터 구성을 생각해보자. Student_id가 기본키이고, 기본키가 하나이므로 2차 정규형은 만족하는 것으로 볼 수 있다. 하지만
@@ -63,9 +64,11 @@ Street, City, State가 결정되기 때문에 이 컬럼들에는 중복된 데�
 만족할 수 있다. 이를 통해 데이터가 논리적인 단위(학생, 주소)로 분리될 수 있고, 데이터의 redundancy도 줄었음을 알 수 있다.
 
 ***Student_Detail Table***
+
 | Student_id  | Student_name   | DOB  | Zip  |
 
 ***Address Table***
+
 | Zip  | Street   | City  | State   |
 
 # BCNF
