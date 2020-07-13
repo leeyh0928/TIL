@@ -71,3 +71,5 @@
     * [Kafka 구성해보기 with Docker Compose](https://github.com/leeyh0928/TIL/blob/master/etc/20200527-kafka-docker.md)
 * Mockito
     * [BDDMockito](https://github.com/leeyh0928/TIL/blob/master/etc/20200712-bdd-mockito.md)
+* Database
+    * [Normalization of Database](https://github.com/leeyh0928/TIL/blob/master/etc/20200713-database-normalization.md)
