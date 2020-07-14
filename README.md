@@ -30,6 +30,8 @@
 - Spring Data
     - [Introduction to Spring Data MongoDB - 1](https://github.com/leeyh0928/TIL/blob/master/Spring/20200702-spring-data-mongodb-tutorial-1.md)
     - [Introduction to Spring Data MongoDB - 2](https://github.com/leeyh0928/TIL/blob/master/Spring/20200705-spring-data-mongodb-tutorial-2.md)
+- SQL
+    - [Database Migrations with Flyway](https://github.com/leeyh0928/TIL/blob/master/Spring/20200714-database-migrations-with-flyway.md)
 - REST
     - [Best Practices for REST API Error Handling](https://github.com/leeyh0928/TIL/blob/master/Spring/20200630-rest-api-error-handling-best-practices.md)
     - [Error Handling for REST with Spring](https://github.com/leeyh0928/TIL/blob/master/Spring/20200701-exception-handling-for-rest-with-spring.md)
