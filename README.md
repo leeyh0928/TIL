@@ -30,6 +30,8 @@
 - Spring Data
     - [Introduction to Spring Data MongoDB - 1](https://github.com/leeyh0928/TIL/blob/master/Spring/20200702-spring-data-mongodb-tutorial-1.md)
     - [Introduction to Spring Data MongoDB - 2](https://github.com/leeyh0928/TIL/blob/master/Spring/20200705-spring-data-mongodb-tutorial-2.md)
+- Cache
+    - [Caching in Spring](https://github.com/leeyh0928/TIL/blob/master/Spring/20200716-spring-cache-tutorial.md)
 - SQL
     - [Database Migrations with Flyway](https://github.com/leeyh0928/TIL/blob/master/Spring/20200714-database-migrations-with-flyway.md)
 - REST
