@@ -37,6 +37,8 @@
 - REST
     - [Best Practices for REST API Error Handling](https://github.com/leeyh0928/TIL/blob/master/Spring/20200630-rest-api-error-handling-best-practices.md)
     - [Error Handling for REST with Spring](https://github.com/leeyh0928/TIL/blob/master/Spring/20200701-exception-handling-for-rest-with-spring.md)
+- Security
+    - [Keycloak Embedded in a Spring Boot Application](https://github.com/leeyh0928/TIL/blob/master/Spring/20200719-keycloak-embedded-in-spring-boot-app.md)
 # JPA
 * 자바 ORM 표준 JPA 프로그래밍
     * JPA 소개
