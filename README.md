@@ -65,6 +65,8 @@
 - [Redis Sentinel 구성해보기 with Docker Compose](https://github.com/leeyh0928/TIL/blob/master/Redis/20200507-docker-redis-sentinel.md)
 - [Lettuce Basic 1부](https://github.com/leeyh0928/TIL/blob/master/Redis/20200508-java-redis-lettuce-1.md)
 - [Lettuce Basic 2부](https://github.com/leeyh0928/TIL/blob/master/Redis/20200511-java-redis-lettuce-2.md)
+# Kafka
+- [Transactions in Apache Kafka](https://github.com/leeyh0928/TIL/blob/master/Kafka/20200719-transaction-in-apache-kafka.md)
 # ETC
 * RPC
     * [gRPC](https://github.com/leeyh0928/TIL/blob/master/etc/20200520-gRPC.md)
