@@ -141,7 +141,8 @@ public class ConsumerWithSyncCommit {
 이 옵션은 `transaction` 관련 내부 브로커 처리를 하기 때문에 옵션을 사용하지 않는 것보다 성능이 다소 떨어질 수 있다는 점은 
 주의 하여야 한다.
 
-`Kafka Stream` 의 경우 컨슈머 중복 문제에 해결을 위한 처리 부분이 추가적으로 있는 것 같은데 다음 기회에 다뤄보도록 하겠다.
+`Kafka Stream` 의 경우 [컨슈머 중복 문제 해결](https://www.confluent.io/blog/enabling-exactly-once-kafka-streams/)을 
+위한 처리 부분이 추가적으로 있는 것 같은데 다음 기회에 다뤄보도록 하겠다.
 
 # References
 * https://blog.voidmainvoid.net/354#recentComments  
