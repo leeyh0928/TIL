@@ -5,6 +5,7 @@
 - [Spring Transaction 관리](https://github.com/leeyh0928/TIL/blob/master/Spring/20200513_spring_transaction.md)
 - [Bean post processor](https://github.com/leeyh0928/TIL/blob/master/Spring/20200607-bean-post-processor.md)
 - [HATEOAS Basic](https://github.com/leeyh0928/TIL/blob/master/Spring/20200609-spring-hateoas-basic.md)
+- [Using @JsonComponent in Spring Boot](https://github.com/leeyh0928/TIL/blob/master/Spring/20200720-spring-boot-jsoncomponent.md)
 - Bean Scope
     - [Bean Scope](https://github.com/leeyh0928/TIL/blob/master/Spring/20200605-bean-scope.md)
     - [The scoped bean injection problem](https://github.com/leeyh0928/TIL/blob/master/Spring/20200608-spring-inject-prototype-bean-into-singleton.md)
