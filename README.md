@@ -83,3 +83,6 @@
     * [BDDMockito](https://github.com/leeyh0928/TIL/blob/master/etc/20200712-bdd-mockito.md)
 * Database
     * [Normalization of Database](https://github.com/leeyh0928/TIL/blob/master/etc/20200713-database-normalization.md)
+* 보안
+    * [CSRF(Cross Site Request Forgery)](https://github.com/leeyh0928/TIL/blob/master/etc/20200723-csrf.md)
+    * [XSS(Cross Site Scription)](https://github.com/leeyh0928/TIL/blob/master/etc/20200723-xss.md)
